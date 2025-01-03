@@ -1,0 +1,28 @@
+{
+  "incomeList": [],
+  "expenseList": [],
+  "other": {
+    "percentage": 0,
+    "budget": 0
+  },
+  "education": {
+    "percentage": 0,
+    "budget": 0
+  },
+  "entertainment": {
+    "percentage": 0,
+    "budget": 0
+  },
+  "housing": {
+    "percentage": 0,
+    "budget": 0
+  },
+  "health": {
+    "percentage": 0,
+    "budget": 0
+  },
+  "food": {
+    "percentage": 0,
+    "budget": 0
+  }
+}

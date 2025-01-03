@@ -1,0 +1,93 @@
+{
+    "other": {
+        "percentage": 60,
+        "budget": 20000
+    },
+    "education": {
+        "percentage": 80,
+        "budget": 10000
+    },
+    "incomeList": [{
+        "date": {
+            "month": 12,
+            "year": 2024,
+            "day": 24
+        },
+        "amount": 5000,
+        "type": "HOUSING"
+    }],
+    "entertainment": {
+        "percentage": 50,
+        "budget": 10000
+    },
+    "housing": {
+        "percentage": 90,
+        "budget": 20000
+    },
+    "health": {
+        "percentage": 75,
+        "budget": 1000
+    },
+    "expenseList": [
+        {
+            "date": {
+              "month": 12,
+              "year": 2025,
+              "day": 24
+            },
+            "amount": 200,
+            "type": "ENTERTAINMENT"
+        },
+        {
+            "date": {
+              "month": 12,
+              "year": 2024,
+              "day": 24
+            },
+            "amount": 300,
+            "type": "OTHER"
+        },
+        {
+            "date": {
+              "month": 12,
+              "year": 2024,
+              "day": 23
+            },
+            "amount": 1000,
+            "type": "EDUCATION"
+        },
+        {
+            "date": {
+              "month": 12,
+              "year": 2024,
+              "day": 28
+            },
+            "amount": 2000,
+            "type": "FOOD"
+        },
+        {
+            "date": {
+              "month": 12,
+              "year": 2024,
+              "day": 26
+            },
+            "amount": 100,
+            "type": "HEALTHCARE"
+        },
+        {
+            "date": {
+              "month": 12,
+              "year": 2024,
+              "day": 23
+            },
+            "amount": 1000,
+            "type": "HOUSING"
+        }
+
+
+    ],
+    "food": {
+        "percentage": 85,
+        "budget": 10000
+    }
+}

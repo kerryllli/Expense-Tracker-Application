@@ -1,0 +1,36 @@
+{
+    "other": {
+        "percentage": 70,
+        "budget": 12345
+    },
+    "education": {
+        "percentage": 2,
+        "budget": 2024
+    },
+    "incomeList": [],
+    "entertainment": {
+        "percentage": 30,
+        "budget": 123123
+    },
+    "housing": {
+        "percentage": 60,
+        "budget": 234324
+    },
+    "health": {
+        "percentage": 50,
+        "budget": 34343
+    },
+    "expenseList": [{
+        "date": {
+            "month": 12,
+            "year": 2024,
+            "day": 24
+        },
+        "amount": 3000,
+        "type": "ENTERTAINMENT"
+    }],
+    "food": {
+        "percentage": 40,
+        "budget": 12323
+    }
+}

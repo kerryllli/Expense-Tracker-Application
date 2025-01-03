@@ -1,0 +1,55 @@
+{
+    "other": {
+        "percentage": 0,
+        "budget": 20000
+    },
+    "education": {
+        "percentage": 80,
+        "budget": 0
+    },
+    "incomeList": [{
+        "date": {
+            "month": 12,
+            "year": 2024,
+            "day": 24
+        },
+        "amount": 5000,
+        "type": "HOUSING"
+    }],
+    "entertainment": {
+        "percentage": 0,
+        "budget": 0
+    },
+    "housing": {
+        "percentage": 0,
+        "budget": 0
+    },
+    "health": {
+        "percentage": 0,
+        "budget": 0
+    },
+    "expenseList": [
+        {
+            "date": {
+                "month": 12,
+                "year": 2025,
+                "day": 24
+            },
+            "amount": 200,
+            "type": "ENTERTAINMENT"
+        },
+        {
+            "date": {
+                "month": 12,
+                "year": 2024,
+                "day": 24
+            },
+            "amount": 300,
+            "type": "OTHER"
+        }
+    ],
+    "food": {
+        "percentage": 85,
+        "budget": 0
+    }
+}
